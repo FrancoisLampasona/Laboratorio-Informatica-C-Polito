@@ -1,0 +1,8 @@
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -W -Wall -Werror -Wno-error=comment -Wextra -pedantic")
+
+flag errore variabili
+
+set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_FLAGS "-o1 -Wall -Werror -Wno-unused-result")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${GCC_ENABLE_WARNINGS}")
+set(SOURCE_FILE main.c)
