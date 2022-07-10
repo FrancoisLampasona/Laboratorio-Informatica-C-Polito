@@ -1,0 +1,5 @@
+francois 100
+manuel 20
+nino 21
+luca 36
+simone 109
